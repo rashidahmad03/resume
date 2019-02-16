@@ -115,7 +115,7 @@
                         Rashid Ahmad
               </h2>
               <h4>
-                        Asistant Application Developer
+                        Your work tag
               </h4>
               <p>
                         Type your description here.
@@ -168,8 +168,8 @@
               <i class="icon-facebook"></i>
                 <div class="item-data">
                   <h3>
-                    <a href="http://www.facebook.com/rashidahmad03">
-                                  Rashid Ahmad
+                    <a href="http://fb.me/your-Username">
+                                  Add Facebook Link
                     </a>
                   </h3>
                   <p>
@@ -184,7 +184,7 @@
                 <div class="item-data">
                   <h3>
                     <a href="http://twitter.com/rashidahmad03">
-                         Rashid Ahmad
+                         Add Twiter username
                     </a>
                   </h3>
                   <p>
@@ -208,21 +208,21 @@
             <div class="meter emerald">
               <span style="width: 90%">
                 <span>
-                        Java
+                        Language 1
                 </span>
               </span>
             </div>
             <div class="meter emerald">
               <span style="width: 90%">
                 <span>
-                        JavaScript
+                        Language 2
                 </span>
               </span>
             </div>
             <div class="meter emerald">
               <span style="width: 70%">
                 <span>
-                        Python
+                        Language 3
                 </span>
               </span>
             </div>
@@ -341,7 +341,7 @@
                     E-mail
                 </h4>
                 <p>
-                   Rashidahmad2135@gmail.com<br/>rashidahmad03@gmail.com
+                    Add your mail 1<br/>Add your mail 2
                 </p>
               </div>
             </div>
