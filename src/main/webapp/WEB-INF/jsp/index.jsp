@@ -203,7 +203,7 @@
         <section class="clearfix">
           <div class="g2">
             <h3>
-                 Programming
+                 Programming Language
             </h3>                            	
             <div class="meter emerald">
               <span style="width: 90%">
@@ -227,16 +227,16 @@
               </span>
             </div>
             <div class="meter emerald">
-              <span style="width: 65%">
+              <span style="width: 90%">
                 <span>
-                        Language 4
+                        C
                 </span>
               </span>
             </div>
             <div class="meter emerald">
               <span style="width: 85%">
                 <span>
-                        Language 5
+                        SQL
                 </span>
               </span>
             </div>
@@ -245,40 +245,40 @@
 
           <div class ="g1">
             <h3>
-                  Skills
+                  Skills/FrameWorks
             </h3>
             <div class="meter emerald">
               <span style="width: 70%">
                 <span>
-                        skill 1
-                </span>
-              </span>
-            </div>
-            <div class="meter emerald">
-              <span style="width: 85%">
-                <span>
-                        skill 2
+                        Spring boot
                 </span>
               </span>
             </div>
             <div class="meter emerald">
               <span style="width: 80%">
                 <span>
-                        skill 3
+                        Hibernate
                 </span>
               </span>
             </div>
             <div class="meter emerald">
-              <span style="width: 90%">
+              <span style="width: 85%">
                 <span>
-                        skill 4
+                        Bootstrap
+                </span>
+              </span>
+            </div>
+            <div class="meter emerald">
+              <span style="width: 60%">
+                <span>
+                        DataBase
                 </span>
               </span>
             </div>
             <div class="meter emerald">
               <span style="width: 65%">
                 <span>
-                        skill 5
+                        C++
                 </span>
               </span>
             </div>
