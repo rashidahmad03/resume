@@ -17,10 +17,12 @@
   <link rel="apple-touch-icon-precomposed" href="apple-touch-icon-114x114-precomposed.png">
   <link rel="apple-touch-icon-precomposed" href="apple-touch-icon-144x144-precomposed.png">
   <link rel="stylesheet" href="css/normalize.min.css">
+  
   <link rel="stylesheet" href="css/main.css">
-
+  
 <!-- All script tags -->
-
+ <meta name="viewport" content="width=device-width, initial-scale=1">
+  
   <script>window.jQuery || document.write('<script src="js/vendor/jquery-1.10.1.min.js"><\/script>')</script>
   <script src="js/vendor/jquery.hashchange.min.js"></script>
   <script src="js/vendor/jquery.easytabs.min.js"></script>
@@ -306,9 +308,17 @@
             <center>  Add Your Projects </center>
           </h1>
           <h2>
-            <center> Here </center>
+            <center> 
+            
+            
+            
+             </center>
           </h2>
-          
+          <div class="container">
+  <div class="panel panel-default">
+    <div class="panel-heading">Panel Heading</div>
+    <div class="panel-body">Panel Content</div>
+  </div>
         </section>
       </div>
     <!-- End Projects tab -->
